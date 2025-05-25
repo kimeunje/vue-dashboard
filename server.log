@@ -1,0 +1,12 @@
+2025-05-25 22:20:44,691 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.30.1.45:5000
+2025-05-25 22:20:44,692 [INFO] [33mPress CTRL+C to quit[0m
+2025-05-25 22:20:44,694 [INFO]  * Restarting with stat
+2025-05-25 22:20:45,194 [WARNING]  * Debugger is active!
+2025-05-25 22:20:45,206 [INFO]  * Debugger PIN: 449-956-913
+2025-05-25 22:21:03,794 [INFO] Request: GET /api/auth/me - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+2025-05-25 22:21:03,796 [INFO] 127.0.0.1 - - [25/May/2025 22:21:03] "[31m[1mGET /api/auth/me HTTP/1.1[0m" 401 -
+2025-05-25 22:21:05,020 [INFO] Request: GET /api/auth/me - User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
+2025-05-25 22:21:05,022 [INFO] 127.0.0.1 - - [25/May/2025 22:21:05] "[31m[1mGET /api/auth/me HTTP/1.1[0m" 401 -

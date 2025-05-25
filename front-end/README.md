@@ -33,3 +33,16 @@ npm run build
 ```sh
 npm run lint
 ```
+
+Scaffolding project in C:\Users\kimeu\Documents\nn\vue-dashboard\front-end...
+│
+└  Done. Now run:
+
+   cd front-end
+   npm install
+   npm run format
+   npm run dev
+
+| Optional: Initialize Git in your project directory with:
+
+   git init && git add -A && git commit -m "initial commit"
